@@ -10,3 +10,6 @@
 ### Conclusion personnel
 je pense avoir compris la logique du système Github
 
+#### README modifié 
+
+modification du README après la création d'une nouvelle branche
