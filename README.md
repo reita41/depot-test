@@ -1,5 +1,5 @@
 # depot-test
-*excercie  pour Mr Benjamain DALLARD*
+*excercice  pour Mr Benjamain DALLARD*
 
 ## Résultat des quizz
 
