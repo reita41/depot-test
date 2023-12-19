@@ -1,12 +1,12 @@
 # depot-test
 *excercie  pour Mr Benjamain DALLARD*
 
-##Résultat des quizz
+## Résultat des quizz
 
--Quizz 1 : 80%
--Quizz 2 : 100% 
--Quizz 3 : 80%
+- Quizz 1 : 80%
+- Quizz 2 : 100% 
+- Quizz 3 : 80%
 
-###Conclusion personnel
+### Conclusion personnel
 je pense avoir compris la logique du système Github
 
